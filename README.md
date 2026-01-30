@@ -49,6 +49,7 @@ Helpful votes analysis
 Top helpful reviews table
 
 📸 Dashboard Preview:
+https://github.com/yogita-san/Zomato-reviews-analytics/blob/main/zomato_review_dashboard.png
 
 
 📌 Business Insights
