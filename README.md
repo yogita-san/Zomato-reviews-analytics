@@ -1,8 +1,8 @@
-# Zomato-reviews-analytics
+# Zomato-reviews-analytics <br>
 Zomato app review analytics using SQL server and Power BI dashboard
 
-📌 Project Overview
-This project analyzes Zomato Google Play Store reviews to understand customer satisfaction, complaints, and engagement trends.
+📌 Project Overview <br>
+This project analyzes Zomato Google Play Store reviews to understand customer satisfaction, complaints, and engagement trends.<br>
 The analysis is performed using SQL Server (SSMS) and visualized using Power BI.
 
 🎯 Objectives
