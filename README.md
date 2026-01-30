@@ -5,64 +5,65 @@ Zomato app review analytics using SQL server and Power BI dashboard
 This project analyzes Zomato Google Play Store reviews to understand customer satisfaction, complaints, and engagement trends.<br>
 The analysis is performed using SQL Server (SSMS) and visualized using Power BI.
 
-🎯 Objectives
-Analyze rating distribution and overall app performance
-Identify complaint trends over time (low ratings)
-Categorize users into satisfaction groups
-Find highly impactful reviews using helpful votes
-Build an interactive Power BI dashboard for insights
+🎯 Objectives<br>
+Analyze rating distribution and overall app performance<br>
+Identify complaint trends over time (low ratings)<br>
+Categorize users into satisfaction groups<br>
+Find highly impactful reviews using helpful votes<br>
+Build an interactive Power BI dashboard for insights<br>
 
-🛠️ Tools & Technologies
-SQL Server (SSMS)
-Power BI
-Excel / CSV Dataset
-DAX Measures
+🛠️ Tools & Technologies<br>
+SQL Server (SSMS)<br>
+Power BI and Power query<br>
+Excel / CSV Dataset<br>
+DAX Measures<br>
 
-📂 Dataset
-Source: Kaggle - Zomato App Play Store Reviews
-Contains:
-review text
-rating
-review date
-helpful 
+📂 Dataset<br>
+Source: Kaggle - Zomato App Play Store Reviews<br>
+Contains:<br>
+review text<br>
+rating<br>
+review date<br>
+helpful<br> 
 
-📌 Key SQL Analysis
-Easy Level
-Total reviews
-Average rating
-Rating distribution
-Moderate Level
-Complaint percentage
-Monthly complaint trend
-Helpful votes analysis
-Advanced Level
-Worst months by complaints
-Running totals (window functions)
-Ranking months by complaint count
+📌 Key SQL Analysis<br>
+Easy Level<br>
+Total reviews<br>
+Average rating<br>
+Rating distribution<br>
+Moderate Level<br>
+Complaint percentage<br>
+Monthly complaint trend<br>
+Helpful votes analysis<br>
+Advanced Level<br>
+Worst months by complaints<br>
+Running totals (window functions)<br>
+Ranking months by complaint count<br>
 
-📊 Power BI Dashboard
-Dashboard Features
-KPI cards: Total Reviews, Avg Rating, Negative review, Positive review, Complaint %
-Monthly review trend & complaint trend
-Satisfaction category breakdown
-Helpful votes analysis
-Top helpful reviews table
+📊 Power BI Dashboard<br>
+Dashboard Features<br>
+KPI cards: Total Reviews, Avg Rating, Negative review, Positive review, Complaint %<br>
+Monthly review trend & complaint trend<br>
+Satisfaction category breakdown<br>
+Helpful votes analysis<br>
+Top helpful reviews table<br>
 
-📸 Dashboard Preview:
+📸 Dashboard Preview:<br>
 https://github.com/yogita-san/Zomato-reviews-analytics/blob/main/zomato_review_dashboard.png
 
 
-📌 Business Insights
-Complaint spikes are visible during certain months
-Negative reviews receive higher engagement (helpful votes)
-Satisfaction categories help understand customer sentiment distribution
+📌 Business Insights<br>
+Complaint spikes are visible during certain months<br>
+Negative reviews receive higher engagement (helpful votes)<br>
+Satisfaction categories help understand customer sentiment distribution<br>
 
-🚀 Future Improvements
-Apply sentiment analysis using Python NLP
-Topic modeling for complaint reasons
+🚀 Future Improvements<br>
+Apply sentiment analysis using Python NLP<br>
+Topic modeling for complaint reasons<br>
 Deploy dashboard online using Power BI service
 
-👩‍💻 Author
-Your Name: Sangita Ghora
-LinkedIn: (add your link)
-GitHub: (your profile link)
+👩‍💻 Author<br>
+Your Name: Sangita Ghora<br>
+LinkedIn: https://www.linkedin.com/in/sangita-ghora<br>
+GitHub: https://www.linkedin.com/in/sangita-ghora
+
