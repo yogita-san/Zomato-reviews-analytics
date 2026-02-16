@@ -65,5 +65,6 @@ Deploy dashboard online using Power BI service
 👩‍💻 Author<br>
 Your Name: Sangita Ghora<br>
 LinkedIn: https://www.linkedin.com/in/sangita-ghora<br>
-GitHub: https://www.linkedin.com/in/sangita-ghora
+GitHub: https://github.com/yogita-san
+
 
